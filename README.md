@@ -7,9 +7,5 @@
 
 ## This side Parshav Sharma
 
-* Dev Army 
-<<<<<<< HEAD
+* Dev Army parshav
 * Date - 17/12/2023
-=======
-* Date - 17/12/2023
->>>>>>> 926536102ad0c3a310f22457e9ebdb67f5602c1e
